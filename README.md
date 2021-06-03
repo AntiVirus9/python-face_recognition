@@ -9,3 +9,6 @@ Před spuštěním programu, je potřeba donainstalovat knihovny:
 - pip install pillow
 
 po instalaci těchto knihoven vytvořte ještě složku `data`, aby vám `04_sber_dat.py` a `05_trening.py` nehlásili chybu
+
+# Testování
+Program byl testován na python verzi 3.7 a v IDE PyCharm 2021.3
