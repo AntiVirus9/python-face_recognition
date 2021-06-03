@@ -8,4 +8,4 @@ Před spuštěním programu, je potřeba donainstalovat knihovny:
 - pip install opencv-python
 - pip install pillow
 
-po instalaci těchto knihoven vytvořte ještě složku *data*, aby vám *04_sber_dat.py* a *05_trening.py* nehlásili chybu
+po instalaci těchto knihoven vytvořte ještě složku `data`, aby vám `04_sber_dat.py` a `05_trening.py` nehlásili chybu
